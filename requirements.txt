@@ -1,0 +1,10 @@
+discord
+tortoise-orm
+psycopg
+python-dotenv
+requests
+asyncpg
+aiohttp_cors
+humanfriendly
+wavelink
+easy-pil
